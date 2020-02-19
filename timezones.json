@@ -85,8 +85,7 @@
       "America/Los_Angeles",
       "America/Tijuana",
       "America/Vancouver",
-      "America/Whitehorse",
-      "PST8PDT"
+      "America/Whitehorse"
     ]
   },
   {
@@ -127,8 +126,7 @@
       "America/Edmonton",
       "America/Inuvik",
       "America/Ojinaga",
-      "America/Yellowknife",
-      "MST7MDT"
+      "America/Yellowknife"
     ]
   },
   {
@@ -166,8 +164,7 @@
       "America/Rainy_River",
       "America/Rankin_Inlet",
       "America/Resolute",
-      "America/Winnipeg",
-      "CST6CDT"
+      "America/Winnipeg"
     ]
   },
   {
@@ -236,8 +233,7 @@
       "America/Pangnirtung",
       "America/Port-au-Prince",
       "America/Thunder_Bay",
-      "America/Toronto",
-      "EST5EDT"
+      "America/Toronto"
     ]
   },
   {
@@ -1332,7 +1328,6 @@
     "isdst": false,
     "text": "(UTC+12:00) Auckland, Wellington",
     "utc": [
-      "Antarctica/McMurdo",
       "Pacific/Auckland"
     ]
   },
